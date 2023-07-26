@@ -1,8 +1,8 @@
 # Data_Analysis_using_matplotlib_and_Seaborn
-# About Project
+# About Project :
 This project focuses on data analysis and visualization of an insurance dataset using Python's Pandas library and popular visualization libraries such as Matplotlib and Seaborn. The goal is to gain insights into the insurance data and solve some insurance sales-related problems.
 
-# Project Overview
+# Project Overview :
 The insurance dataset contains information about various insurance policies, customer demographics, and sales-related information. The project aims to perform the following tasks: 1.Load and explore the dataset to understand its structure and contents.
 
 2.Perform data cleaning and handle missing values, if any.
